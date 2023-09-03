@@ -8,7 +8,6 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 * Spring Boot (v3.1.1)
 * java 17
 * Spring Data JPA
-* Hibernate
 * Swagger(2.0.2) 
 
 
@@ -25,10 +24,6 @@ Vous pouvez modifier ce fichier pour adapter la configuration à vos besoins ,no
 
 ## Structure du projet
 Le projet est organisé en différents packages :
-
-
- Back-End
-
 
 ## Comment démarrer
 Back-End
