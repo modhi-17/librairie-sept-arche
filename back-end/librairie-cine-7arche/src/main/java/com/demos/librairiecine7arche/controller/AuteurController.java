@@ -11,7 +11,6 @@ public class AuteurController {
 
     private final AuteurRepository auteurRepository;
 
-
     public AuteurController(AuteurRepository auteurRepository) {
         this.auteurRepository = auteurRepository;
     }

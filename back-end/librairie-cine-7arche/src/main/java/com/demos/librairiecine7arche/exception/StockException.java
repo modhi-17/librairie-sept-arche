@@ -14,6 +14,5 @@ public class StockException extends RuntimeException{
         return errorCode;
     }
 
-
 }
 

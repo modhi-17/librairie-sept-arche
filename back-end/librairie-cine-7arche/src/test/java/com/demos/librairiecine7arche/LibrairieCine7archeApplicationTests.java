@@ -23,7 +23,6 @@ class LibrairieCine7archeApplicationTests {
             Assertions.assertEquals(7, stock.getNombre());
         }
 
-
         @Test
         public void testIncrementStock() {
 
