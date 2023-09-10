@@ -1,57 +1,72 @@
 
-# Librairie-7éme-Arche
-Projet Ecommerce d'une librairie specialisée dans le domaine du cinema.
 
-## Prérequis
-Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
+# 7ème-Arche 
+Bienvenue dans la documentation du backend de l'application e-commerce de la Librairie 7ème Arche, spécialisée dans la vente d'articles liés au cinéma.
+
+# Prérequis
+Avant de commencer,assurez-vous d'avoir installé les éléments suivants :
 
 * Spring Boot (v3.1.1)
-* java 17
-* Spring Data JPA
-* Swagger(2.0.2) 
+* Java 17
+* Serveur Apache Tomcat 
+* Swagger (v2.0.2)
+* MySQL avec Mamp ou XAMP
+* Spring Security 6
+* JWT (JSON Web Tokens)
 
 
+# Guide d'Installation
 
+Téléchargez et installez MAMP, XAMPP ou LAMP depuis leur site officiel respectif et suivre la documentation officielle
+*  MAMP à l'adresse suivante : https://www.mamp.info/en/downloads/
+*  XAMPP à l'adresse suivante: https://www.apachefriends.org/download.html
 
-## Configuration
-Le projet utilise un fichier application.properties pour la configuration de l'application.
-Vous pouvez modifier ce fichier pour adapter la configuration à vos besoins ,notamment la base de donnee
+# Configuration
+Le projet utilise un fichier `application.properties` pour la configuration de l'application.
+Vous pouvez modifier ce fichier pour adapter la configuration à vos besoins(base de données,port..)
 
- * port 8090
- * bdd mysql 
- 
+# Port d'écoute de l'application
+server.port=8090
 
-
-## Structure du projet
+# Structure du Projet
 Le projet est organisé en différents packages :
 
-## Comment démarrer
-Back-End
-1 Recuperation du code source spring sur github
-git clone 
-cd librairie 7arche...
-2 Choisir et configurer sa base de donnee via le fichier application properties dans le dossier Ressources
-3 Démarrer le projet 
-
-
-Front-End
-suivre le readme sur react
-[For React]: <https://github.com/Genc/angular-boilerplate>
+controller: Contrôleurs de l'application
+exception: Gestion des exceptions
+model: Modèles de données
+repository: Interfaces de répository
+security: Configuration de la sécurité
+service: Services de l'application
+test: Tests
 
 
 
-## Test 
-mise en place d'un dossier test
+# Installation
+Pour accéder au code source du backend de l'application, suivez ces étapes :
 
-* JUnit 
+1. Clonez le projet depuis le repository Git sur Github :
+git clone https://github.com/modhi-17/librairie-sept-arche.git
+
+2. Naviguez dans le dossier du projet :
+cd librairie-sept-arche/back-end/librairie-cine-7arche
+
+# Démarrage de l'Application
+
+Pour démarrer l'application, suivez ces étapes :
+
+1. Configurez le fichier application.properties comme expliqué précédemment.
+2. Démarrez MAMP ou XAMPP (assurez-vous que le serveur MySQL soit en cours d'exécution).
+3. Compilez et construisez le projet.
+4. Exécutez l'application en faisant un clic droit sur la classe principale LibrairieCine7archeApplication et sélectionnez "Run".
+5. L'application sera disponible sur le serveur local à l'adresse : http://localhost:8080.
+6. Se rendre sur le projet React, suivre les instructions dans la documentation du frontend et démarrer l'application.
 
 
-## Authors
+# Tests
+Les tests sont organisés dans un dossier dédié.
 
+Exécutez les tests en faisant un clic droit sur la classe de test LibrairieCine7archeApplicationTests et sélectionnez "Run".
 
-
-## License
-
-
-
+# Auteurs
+Mohamed Dhif
 
