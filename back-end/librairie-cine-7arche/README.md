@@ -31,13 +31,13 @@ server.port=8090
 # Structure du Projet
 Le projet est organisé en différents packages :
 
-controller: Contrôleurs de l'application
-exception: Gestion des exceptions
-model: Modèles de données
-repository: Interfaces de répository
-security: Configuration de la sécurité
-service: Services de l'application
-test: Tests
+* controller: Contrôleurs de l'application
+* exception: Gestion des exceptions
+* model: Modèles de données
+* repository: Interfaces de répository
+* security: Configuration de la sécurité
+* service: Services de l'application
+* test: Tests
 
 
 
