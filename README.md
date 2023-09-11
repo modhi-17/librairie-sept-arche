@@ -56,11 +56,11 @@ L'application sera accessible à l'adresse http://localhost:3000
 ## Archi spring security et jwt 
 <img width="637" alt="Capture d’écran 2023-09-11 à 15 36 51" src="https://github.com/modhi-17/librairie-sept-arche/assets/85395969/08e68d5c-af82-482c-85d6-43c6cf927e2a">
 
+##  Jwt (JSON Web Token)
 <img width="629" alt="Capture d’écran 2023-09-11 à 15 51 14" src="https://github.com/modhi-17/librairie-sept-arche/assets/85395969/30af730f-e52c-4ebd-9c77-ac85017c7981">
 
 
 ## swagger
-
 http://localhost:8090/swagger-ui/index.html
 
 
