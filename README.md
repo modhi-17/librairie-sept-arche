@@ -54,7 +54,7 @@ L'application sera accessible à l'adresse http://localhost:3000
 ## Archi 7eme arche
 <img width="567" alt="image" src="https://github.com/modhi-17/sept-arche/assets/85395969/cb816662-6721-4571-a55b-f6086b24d7a8">
 
-## Archi spring security et jwt 
+## Archi spring security  
 <img width="637" alt="Capture d’écran 2023-09-11 à 15 36 51" src="https://github.com/modhi-17/librairie-sept-arche/assets/85395969/08e68d5c-af82-482c-85d6-43c6cf927e2a">
 
 ##  Jwt (JSON Web Token)
