@@ -1,4 +1,4 @@
-# 7eme arche
+# Librairie 7ème arche
 
 Ce répertoire contient le code source complet de notre application eCommerce 7eme arche, composée d'un front-end en React et d'un back-end en Spring Boot.
 
@@ -37,6 +37,7 @@ Suivez les instructions de configuration et d'installation du front-end et du ba
 
 - etape 1
 Lancez le serveur back-end en suivant les instructions du README du back-end.
+L'application sera accessible à l'adresse http://localhost:8090 
 - etape 2
 Lancez le front-end en suivant les instructions du README du front-end.
 L'application sera accessible à l'adresse http://localhost:3000 
