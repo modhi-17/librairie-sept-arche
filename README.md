@@ -5,23 +5,23 @@ Ce répertoire contient le code source complet de notre application eCommerce 7e
 ## environnement de developpement 
 choississez et configurer votre propre environnement de developpement , ce projet a utilisé : 
 
-React : visual studio code 
-Spring : intellijea
+- React : visual studio code 
+- Spring : intellijea
 
 ## Technologies utilisées
 React
 Ce projet a été initialisé avec [Create React App](https://github.com/facebook/create-react-app).
-- Node.js vnode :16.13.0
-- Npm npm :8.1.0
+- Node.js node :16.13.0
+- Npm  :8.1.0
 
 SpringBoot
-Ce projet a été initialisé avec  dire que c'est un projet maven initialise a partir de spring inializer
+Ce projet a été initialisé avec spring inializr 
 - Java 17 
-Spring Boot 3 (with Spring Security, Spring Web, Spring Data JPA)
+- Spring Boot 3 (with Spring Security, Spring Web, Spring Data JPA)
 - jjwt 0.11.5
 - H2 –database
-- phpmyadmin : mamp,mysql
-
+- Mysql
+- Apache Tomcat : 10.1.10
 
 ## Installation
 1. Clonez ce repository :
