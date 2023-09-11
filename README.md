@@ -12,8 +12,8 @@ choississez et configurer votre propre environnement de developpement, ce projet
 React
 Ce projet a été initialisé avec  : 
 [Create React App](https://github.com/facebook/create-react-app).
-- Node.js node :16.13.0
-- Npm  :8.1.0
+- Node:16.13.0
+- Npm :8.1.0
 
 SpringBoot
 Ce projet a été initialisé avec : spring inializr 
@@ -23,7 +23,7 @@ Ce projet a été initialisé avec : spring inializr
 - jjwt 0.11.5
 - Spring Security
 - H2 –database
-- Mysql
+- Base de données Mysql
 - Tomcat : 10.1.10
 
 ## Installation
