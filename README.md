@@ -10,12 +10,14 @@ choississez et configurer votre propre environnement de developpement , ce proje
 
 ## Technologies utilisées
 React
-Ce projet a été initialisé avec [Create React App](https://github.com/facebook/create-react-app).
+Ce projet a été initialisé avec  : 
+[Create React App](https://github.com/facebook/create-react-app).
 - Node.js node :16.13.0
 - Npm  :8.1.0
 
 SpringBoot
-Ce projet a été initialisé avec spring inializr 
+Ce projet a été initialisé avec :
+spring inializr 
 - Java 17 
 - Spring Boot 3 (avecSpring Web, Spring Data JPA,hibernate)
 - jjwt 0.11.5
