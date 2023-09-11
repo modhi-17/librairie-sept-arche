@@ -32,18 +32,18 @@ cd librairie-sept-arche
 ## Demarrer
 Suivez les instructions de configuration et d'installation du front-end et du back-end dans leurs répertoires respectifs.
 
-etape 1
+- etape 1
 Lancez le serveur back-end en suivant les instructions du README du back-end.
-etape 2
+- etape 2
 Lancez le front-end en suivant les instructions du README du front-end.
 L'application sera accessible à l'adresse http://localhost:3000 
 
 ## structure des fichiers react
-This is folders & files structure for our react :
+
 <img width="398" alt="Capture d’écran 2023-09-09 à 18 48 31" src="https://github.com/modhi-17/sept-arche/assets/85395969/18ecaa3c-4ce5-4613-86de-c540120b5f26">
 
 ## structure des fichiers SpringBoot
-This is folders & files structure for our Spring Boot Security JWT example:
+
 <img width="404" alt="Capture d’écran 2023-09-09 à 18 41 13" src="https://github.com/modhi-17/sept-arche/assets/85395969/392e4c47-f95b-499e-9bca-6a6b632a4e2f">
 
 
