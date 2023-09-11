@@ -17,16 +17,17 @@ Ce projet a été initialisé avec [Create React App](https://github.com/faceboo
 SpringBoot
 Ce projet a été initialisé avec spring inializr 
 - Java 17 
-- Spring Boot 3 (with Spring Security, Spring Web, Spring Data JPA)
+- Spring Boot 3 (avecSpring Web, Spring Data JPA,hibernate)
 - jjwt 0.11.5
+- Spring Security
 - H2 –database
 - Mysql
 - Apache Tomcat : 10.1.10
 
 ## Installation
-1. Clonez ce repository :
-git clone 
-cd librairie-sept-arche
+ Clonez ce repository :
+- git clone 
+- cd librairie-sept-arche
 
    
 ## Demarrer
