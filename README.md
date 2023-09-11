@@ -9,13 +9,13 @@ choississez et configurer votre propre environnement de developpement, ce projet
 - Spring : Intellijea
 
 ## Technologies utilisées
-* React
+- React
 Ce projet a été initialisé avec  : 
 [Create React App](https://github.com/facebook/create-react-app).
 - Node:16.13.0
 - Npm :8.1.0
 
-* SpringBoot
+- SpringBoot
 Ce projet a été initialisé avec : spring inializr 
 - Projet Maven
 - Java 17 
