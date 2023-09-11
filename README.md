@@ -8,7 +8,7 @@ choississez et configurer votre propre environnement de developpement , ce proje
 React : visual studio code 
 Spring : intellijea
 
-## Technology
+## Technologies utilisées
 React
 Ce projet a été initialisé avec [Create React App](https://github.com/facebook/create-react-app).
 - Node.js vnode :16.13.0
