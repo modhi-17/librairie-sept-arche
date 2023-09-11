@@ -3,10 +3,10 @@
 Ce répertoire contient le code source complet de notre application eCommerce 7eme arche, composée d'un front-end en React et d'un back-end en Spring Boot.
 
 ## environnement de developpement 
-choississez et configurer votre propre environnement de developpement , ce projet a utilisé : 
+choississez et configurer votre propre environnement de developpement, ce projet a utilisé : 
 
 - React : visual studio code 
-- Spring : intellijea
+- Spring : Intellijea
 
 ## Technologies utilisées
 React
@@ -16,15 +16,15 @@ Ce projet a été initialisé avec  :
 - Npm  :8.1.0
 
 SpringBoot
-Ce projet a été initialisé avec :
-spring inializr 
+Ce projet a été initialisé avec : spring inializr 
+- Projet Maven
 - Java 17 
 - Spring Boot 3 (avecSpring Web, Spring Data JPA,hibernate)
 - jjwt 0.11.5
 - Spring Security
 - H2 –database
 - Mysql
-- Apache Tomcat : 10.1.10
+- Tomcat : 10.1.10
 
 ## Installation
  Clonez ce repository :
@@ -54,7 +54,9 @@ L'application sera accessible à l'adresse http://localhost:3000
 <img width="567" alt="image" src="https://github.com/modhi-17/sept-arche/assets/85395969/cb816662-6721-4571-a55b-f6086b24d7a8">
 
 ## Archi spring security et jwt 
-<img width="641" alt="Capture d’écran 2023-09-09 à 19 04 35" src="https://github.com/modhi-17/sept-arche/assets/85395969/76e9885c-a24d-41ce-961c-1af5db050443">
+<img width="637" alt="Capture d’écran 2023-09-11 à 15 36 51" src="https://github.com/modhi-17/librairie-sept-arche/assets/85395969/08e68d5c-af82-482c-85d6-43c6cf927e2a">
+
+
 <img width="633" alt="Capture d’écran 2023-09-09 à 18 59 26" src="https://github.com/modhi-17/sept-arche/assets/85395969/4a183777-0033-4cb2-a80f-9706175735b1">
 
 
